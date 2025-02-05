@@ -1,0 +1,7 @@
+Criação do projeto é utilizando o comando: npm create vite@latest
+
+realizar a limpa dos arquivos que nao serão utilizados(foto do vite, arquivos de configuração, etc)
+
+estruturar o projeto
+criar uma pasta para as pastas(pode ser chamdo de pages ou containers)
+    (dica: utilizar o styled-components para estilizar)
