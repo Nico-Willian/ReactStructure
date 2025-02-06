@@ -5,3 +5,6 @@ realizar a limpa dos arquivos que nao serão utilizados(foto do vite, arquivos d
 estruturar o projeto
 criar uma pasta para as pastas(pode ser chamdo de pages ou containers)
     (dica: utilizar o styled-components para estilizar)
+
+services - fazer as requisições para a api
+components - componentes que serão utilizados em varias paginas
